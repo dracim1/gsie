@@ -2,12 +2,9 @@ const CACHE_NAME = 'sie-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/dashboard2.css',
-  '/dashboard.js',
-  '/chartsJS.js',
   '/manifest.json',
-  '/icons/favicon192.png',
-  '/icons/favicon512.png'
+  '/icon/favicon192.png',
+  '/icon/favicon512.png'
 ];
 
 // Installer le Service Worker et mettre en cache les fichiers
