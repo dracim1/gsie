@@ -1,11 +1,10 @@
 {
-  "name": "PROJET SIE",
-  "short_name": "SIE",
-  "start_url": "./index.html",
+  "name": "Mon Application",
+  "short_name": "App",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "icon/favicon192.png",
@@ -16,12 +15,7 @@
       "src": "icon/favicon512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "icon/favicon-maskable.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
     }
+
   ]
 }
