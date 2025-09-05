@@ -8,17 +8,17 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon/favicon192.png",
+      "src": "icon/afavicon192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon/favicon512.png",
+      "src": "icon/afavicon512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icon/favicon-maskable.png",
+      "src": "icon/afavicon-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
