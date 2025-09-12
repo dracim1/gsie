@@ -1,10 +1,10 @@
 {
-  "name": "GSIE",
+  "name": "Dashboard Copie",
   "short_name": "Dashboard",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#ff0000",
   "icons": [
     {
       "src": "icon/favicon192.png",
